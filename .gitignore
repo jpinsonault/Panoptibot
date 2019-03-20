@@ -1,6 +1,9 @@
 ## so the bot's token doesn't leak
 auth.json
 
+# the local database file
+db
+
 ### Node ###
 # Logs
 logs
